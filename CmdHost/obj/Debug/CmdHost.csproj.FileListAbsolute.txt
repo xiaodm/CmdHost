@@ -1,0 +1,12 @@
+c:\users\xiaodm\documents\visual studio 2015\Projects\CmdHost\CmdHost\bin\Debug\CmdHost.exe
+c:\users\xiaodm\documents\visual studio 2015\Projects\CmdHost\CmdHost\bin\Debug\CmdHost.pdb
+c:\users\xiaodm\documents\visual studio 2015\Projects\CmdHost\CmdHost\obj\Debug\MainWindow.g.cs
+c:\users\xiaodm\documents\visual studio 2015\Projects\CmdHost\CmdHost\obj\Debug\App.g.cs
+c:\users\xiaodm\documents\visual studio 2015\Projects\CmdHost\CmdHost\obj\Debug\CmdHost_MarkupCompile.cache
+c:\users\xiaodm\documents\visual studio 2015\Projects\CmdHost\CmdHost\obj\Debug\CmdHost_MarkupCompile.lref
+c:\users\xiaodm\documents\visual studio 2015\Projects\CmdHost\CmdHost\obj\Debug\MainWindow.baml
+c:\users\xiaodm\documents\visual studio 2015\Projects\CmdHost\CmdHost\obj\Debug\CmdHost.g.resources
+c:\users\xiaodm\documents\visual studio 2015\Projects\CmdHost\CmdHost\obj\Debug\CmdHost.Properties.Resources.resources
+c:\users\xiaodm\documents\visual studio 2015\Projects\CmdHost\CmdHost\obj\Debug\CmdHost.csproj.GenerateResource.Cache
+c:\users\xiaodm\documents\visual studio 2015\Projects\CmdHost\CmdHost\obj\Debug\CmdHost.exe
+c:\users\xiaodm\documents\visual studio 2015\Projects\CmdHost\CmdHost\obj\Debug\CmdHost.pdb
